@@ -5,14 +5,9 @@ Used different visuals like line,pie,doughnut,slicers.
 
 Diff Excel functions used are
 
-Xlookup
-
-Match
-
-Index
-
-Sum
-
-If
-
-Text
+  Xlookup
+  Match
+  Index
+  Sum
+  If
+  Text
