@@ -4,9 +4,15 @@ The objective of creating this dashboard is to provide insights about the coffee
 Used different visuals like line,pie,doughnut,slicers.
 
 Diff Excel functions used are
+
 Xlookup
+
 Match
+
 Index
+
 Sum
+
 If
+
 Text
